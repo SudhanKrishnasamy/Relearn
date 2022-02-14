@@ -1,4 +1,4 @@
-name: relearn
+name: Build
 
 on:
   push:
